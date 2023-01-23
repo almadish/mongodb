@@ -1,6 +1,6 @@
 # AirBnB MongoDB Analysis
 
-A little assignment to practice importing and analyzing data within a MongoDB database.
+A training to practice importing and analyzing data within a MongoDB database.
 
 ## Part 1: Data selection and import
 
