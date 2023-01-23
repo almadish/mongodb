@@ -393,11 +393,9 @@ db.listings.aggregate([average,match95])
 { "_id" : "Diamond Heights", "average_rating" : 4.758 }
 ```
 
-## Extra Credit
+## Extra Exercise
 
 ### Recreate analyses
-
-This assignment deserves extra credit because I reproduced the query (which I did in using mongodb initially) using the python. Moreover, I ran it and it worked. 
 
 Reproduce one of your earlier queries:
 
